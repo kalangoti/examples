@@ -1,6 +1,7 @@
 import React from "react";
 import "./Comentario.css";
 
+// Stateless Components
 const Comentario = (props) => (
   <div className="Comentario">
     <h2>{props.name}</h2>
