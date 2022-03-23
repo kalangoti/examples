@@ -1,2 +1,2 @@
 # examples
-Exemplo para relembrar JavaScript e React
+Exemplos para relembrar JavaScript e React
